@@ -17,7 +17,7 @@ That means the lines that contain MAKKARA. Please note that grep is case sensiti
 grep -i 'MAKKARA' menu.txt
 ```
 
-will print out all the lines in menu.txt containing makkara, Makkara, maKKara (you get the point) - the switch -i turns off case snsistivity.
+will print out all the lines in menu.txt containing makkara, Makkara, maKKara (you get the point) - the switch -i turns off case sensitivity.
 
 
 #What is the averege flight velocity of an unlaiden swallow?
